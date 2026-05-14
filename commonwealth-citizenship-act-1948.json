@@ -1,0 +1,40 @@
+{
+  "id": "commonwealth-citizenship-act-1948",
+  "title": "Commonwealth Citizenship Act",
+  "year": 1948,
+  "category": "Citizenship & Nationality",
+  "status": "Active",
+  "short": "Establishes the common status of Commonwealth Citizenship and the rights attached thereto.",
+  "preamble": "Whereas it is expedient to make provision for Commonwealth citizenship and for purposes connected therewith; Be it therefore enacted by the Commonwealth of Nations in accordance with the principles of the London Declaration:",
+  "sections": [
+    {
+      "number": "1",
+      "title": "Commonwealth Citizenship",
+      "text": "Every person who, under the law of a Commonwealth member state, is a citizen of that state shall, by virtue of that citizenship, be a Commonwealth citizen."
+    },
+    {
+      "number": "2",
+      "title": "Rights of Commonwealth Citizens",
+      "text": "A Commonwealth citizen shall, subject to the laws of each member state, be entitled to enter and reside in any Commonwealth member state, to seek employment, and to enjoy such other rights and privileges as may from time to time be accorded to Commonwealth citizens by member states."
+    },
+    {
+      "number": "3",
+      "title": "Reciprocal Obligations",
+      "text": "Member states undertake to treat Commonwealth citizens with dignity and in accordance with the principles of the rule of law, and shall not discriminate against Commonwealth citizens on the grounds of their national origin within the Commonwealth."
+    },
+    {
+      "number": "4",
+      "title": "Loss of Status",
+      "text": "A person shall cease to be a Commonwealth citizen upon ceasing to be a citizen of a Commonwealth member state, unless they hold citizenship of another member state, in which case Commonwealth citizenship is retained by virtue of that other citizenship."
+    },
+    {
+      "number": "5",
+      "title": "Interpretation",
+      "text": "In this Act, 'member state' means any state that is a member of the Commonwealth of Nations as recognised by the Heads of Government; 'citizen' includes a national for the purposes of this Act."
+    }
+  ],
+  "amendments": [
+    { "year": 1962, "note": "Amended to clarify reciprocal rights provisions." },
+    { "year": 1971, "note": "Extended to include newly independent member states." }
+  ]
+}

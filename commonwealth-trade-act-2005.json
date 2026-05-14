@@ -1,0 +1,32 @@
+{
+  "id": "commonwealth-trade-act-2005",
+  "title": "Commonwealth Trade and Commerce Act",
+  "year": 2005,
+  "category": "Trade & Economy",
+  "status": "Active",
+  "short": "Facilitates trade, reduces barriers, and establishes a framework for economic cooperation between member states.",
+  "preamble": "Recognising the mutual benefit of free and fair trade between member states, and reaffirming the commitment to sustainable economic development across the Commonwealth:",
+  "sections": [
+    {
+      "number": "1",
+      "title": "Reduction of Trade Barriers",
+      "text": "Member states shall progressively reduce tariffs, quotas, and other trade barriers on goods and services originating from other member states, in accordance with the schedules agreed at the Commonwealth Trade Forum."
+    },
+    {
+      "number": "2",
+      "title": "Commonwealth Preference",
+      "text": "Where a member state maintains a schedule of preferential tariff rates, goods certified as originating in a member state shall be eligible for the most favourable rate within that schedule."
+    },
+    {
+      "number": "3",
+      "title": "Dispute Resolution",
+      "text": "Trade disputes between member states shall first be referred to the Commonwealth Trade Arbitration Panel. Member states agree to be bound by the Panel's decisions in matters within its jurisdiction."
+    },
+    {
+      "number": "4",
+      "title": "Standards and Certification",
+      "text": "Member states shall work toward mutual recognition of product standards and professional qualifications, reducing duplication and lowering the cost of cross-border commerce."
+    }
+  ],
+  "amendments": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "commonwealth-environmental-charter-2019",
+  "title": "Commonwealth Environmental Charter",
+  "year": 2019,
+  "category": "Environment",
+  "status": "Active",
+  "short": "Commits member states to environmental protection, climate action, and the preservation of natural heritage.",
+  "preamble": "Mindful of the vulnerability of many Commonwealth member states to the effects of climate change, and affirming the importance of natural heritage to the identity and prosperity of the Commonwealth:",
+  "sections": [
+    {
+      "number": "1",
+      "title": "Commitment to Climate Action",
+      "text": "Member states reaffirm their commitment to the goals of the Paris Agreement and pledge to pursue nationally determined contributions consistent with limiting global warming to 1.5 degrees Celsius above pre-industrial levels."
+    },
+    {
+      "number": "2",
+      "title": "Protection of Small Island States",
+      "text": "The Commonwealth recognises the existential threat posed by sea level rise to small island member states and commits to providing technical, financial, and diplomatic support to those states in international climate negotiations."
+    },
+    {
+      "number": "3",
+      "title": "Biodiversity",
+      "text": "Member states undertake to protect biodiversity within their territories and to cooperate in the preservation of ecosystems that cross national boundaries. No member state shall take actions that knowingly cause significant ecological harm to another member state."
+    },
+    {
+      "number": "4",
+      "title": "Reporting",
+      "text": "Member states shall submit biennial environmental reports to the Commonwealth Secretariat, detailing progress toward the goals of this Charter and identifying areas where Commonwealth cooperation would be beneficial."
+    }
+  ],
+  "amendments": [
+    { "year": 2022, "note": "Strengthened language on small island state protection following CHOGM 2022." }
+  ]
+}
